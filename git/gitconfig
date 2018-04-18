@@ -1,0 +1,5 @@
+[user]
+	name = xxx
+	email = xxx@email.com
+[includeIf "gitdir:~/github.com/"]
+	path = DIRPATH/.gitconfig
