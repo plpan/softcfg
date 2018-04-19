@@ -12,6 +12,7 @@ The way how to config is much more important ...
 
 ### vim-spf13
 
+0. if the version is less than 8.0, please upgrade to the newest
 1. install
     - sh <(curl https://j.mp/spf13-vim3 -L)
 2. patch the ~/.vimrc with vimrc-for-spf13
