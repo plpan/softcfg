@@ -14,10 +14,14 @@ set tabstop=4
 set shiftwidth=4
 set ai
 set nu
+" auto indent
 set copyindent
 set autoindent
 set nobackup
+" do not create .swp files
 set noswapfile
+" do not fold code
+set nofoldenable
 
 """""" add for Vundle
 filetype off

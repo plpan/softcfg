@@ -1,0 +1,13 @@
+" enable copy
+set mouse=r
+
+" disable code fold
+set nofoldenable
+
+" define go-def
+au FileType go nmap <Leader>d <Plug>(go-def)
+au FileType go nmap <Leader>dp <Plug>(go-def-pop)
+
+" cfg for NERDTree
+autocmd VimEnter * NERDTree
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") &&b:NERDTreeType == "primary") | q | endif
