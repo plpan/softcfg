@@ -1,0 +1,11 @@
+### download
+wget https://github.com/vim/vim/archive/v8.0.1737.tar.gz
+
+### install
+./configure && make && sudo make install
+
+### destination
+the new binary will be move to /usr/local/bin/vim
+
+### flush to make it work
+. ~/.zshrc
