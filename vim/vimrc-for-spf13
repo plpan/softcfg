@@ -1,0 +1,19 @@
+""" for .vimrc
+" enable copy
+set mouse=r
+
+" disable code fold
+set nofoldenable
+
+" define go-def
+au FileType go nmap <Leader>d <Plug>(go-def)
+au FileType go nmap <Leader>dp <Plug>(go-def-pop)
+
+" cfg for NERDTree
+autocmd VimEnter * NERDTree
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") &&b:NERDTreeType == "primary") | q | endif
+
+""" for .vimrc.bundle
+if !exists('g:spf13_bundle_groups')
+    let g:spf13_bundle_groups=['general', 'writing', 'neocomplete', 'programming', 'php', 'ruby', 'python', 'javascript', 'html', 'misc', 'go',]
+endif
