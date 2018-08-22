@@ -1,5 +1,7 @@
 [user]
 	name = xxx
 	email = xxx@email.com
+[core]
+    quotepath = false
 [includeIf "gitdir:~/github.com/"]
 	path = DIRPATH/.gitconfig
