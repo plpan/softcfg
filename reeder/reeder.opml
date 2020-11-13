@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Subscriptions - stupig</title>
+	</head>
+	<body>
+		<outline htmlUrl="http://lzz5235.github.io//" title="JasonLe (Linux)" xmlUrl="http://lzz5235.github.io/feed.xml" type="rss" text="JasonLe (Linux)"/>
+		<outline htmlUrl="https://plpan.github.io/" title="Stupig" xmlUrl="https://plpan.github.io/atom.xml" type="rss" text="Stupig"/>
+		<outline htmlUrl="https://xargin.com/" title="Xargin" xmlUrl="https://xargin.com/rss/" type="rss" text="Xargin"/>
+		<outline htmlUrl="http://www.wowotech.net/" title="蜗窝科技" xmlUrl="http://www.wowotech.net/rss.php?sort=21" type="rss" text="蜗窝科技"/>
+		<outline htmlUrl="https://draveness.me/" title="面向信仰编程" xmlUrl="https://draveness.me/feed.xml" type="rss" text="面向信仰编程"/>
+	</body>
+</opml>
