@@ -4,10 +4,17 @@
 		<title>Subscriptions - stupig</title>
 	</head>
 	<body>
+		<outline htmlUrl="http://www.brendangregg.com/blog" title="Brendan Gregg" xmlUrl="http://www.brendangregg.com/blog/rss.xml" type="rss" text="Brendan Gregg"/>
 		<outline htmlUrl="http://lzz5235.github.io//" title="JasonLe (Linux)" xmlUrl="http://lzz5235.github.io/feed.xml" type="rss" text="JasonLe (Linux)"/>
+		<outline htmlUrl="https://www.likakuli.com/" title="kaku" xmlUrl="https://www.likakuli.com/index.xml" type="rss" text="kaku"/>
+		<outline htmlUrl="https://idea.popcount.org" title="Marek (linux)" xmlUrl="https://idea.popcount.org/rss.xml" type="rss" text="Marek (linux)"/>
 		<outline htmlUrl="https://plpan.github.io/" title="Stupig" xmlUrl="https://plpan.github.io/atom.xml" type="rss" text="Stupig"/>
 		<outline htmlUrl="https://xargin.com/" title="Xargin" xmlUrl="https://xargin.com/rss/" type="rss" text="Xargin"/>
-		<outline htmlUrl="http://www.wowotech.net/" title="蜗窝科技" xmlUrl="http://www.wowotech.net/rss.php?sort=21" type="rss" text="蜗窝科技"/>
+		<outline htmlUrl="http://www.wowotech.net/" title="蜗窝科技" xmlUrl="http://www.wowotech.net/rss.php?sort=4" type="rss" text="蜗窝科技"/>
+		<outline htmlUrl="http://www.wowotech.net/" title="蜗窝科技(内存)" xmlUrl="http://www.wowotech.net/rss.php?sort=21" type="rss" text="蜗窝科技(内存)"/>
+		<outline htmlUrl="http://www.wowotech.net/" title="蜗窝科技(文件系统)" xmlUrl="http://www.wowotech.net/rss.php?sort=26" type="rss" text="蜗窝科技(文件系统)"/>
+		<outline htmlUrl="http://www.wowotech.net/" title="蜗窝科技(编译)" xmlUrl="http://www.wowotech.net/rss.php?sort=7" type="rss" text="蜗窝科技(编译)"/>
+		<outline htmlUrl="http://www.ruanyifeng.com/blog/" title="阮一峰的网络日志" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" type="rss" text="阮一峰的网络日志"/>
 		<outline htmlUrl="https://draveness.me/" title="面向信仰编程" xmlUrl="https://draveness.me/feed.xml" type="rss" text="面向信仰编程"/>
 	</body>
 </opml>
