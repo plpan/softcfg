@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<opml version="1.0">
-	<head>
-		<title>Subscriptions - stupig</title>
-	</head>
-	<body>
-		<outline htmlUrl="http://www.brendangregg.com/blog" title="Brendan Gregg" xmlUrl="http://www.brendangregg.com/blog/rss.xml" type="rss" text="Brendan Gregg"/>
-		<outline htmlUrl="http://lzz5235.github.io//" title="JasonLe (Linux)" xmlUrl="http://lzz5235.github.io/feed.xml" type="rss" text="JasonLe (Linux)"/>
-		<outline htmlUrl="https://www.likakuli.com/" title="kaku" xmlUrl="https://www.likakuli.com/index.xml" type="rss" text="kaku"/>
-		<outline htmlUrl="https://idea.popcount.org" title="Marek (linux)" xmlUrl="https://idea.popcount.org/rss.xml" type="rss" text="Marek (linux)"/>
-		<outline htmlUrl="https://plpan.github.io/" title="Stupig" xmlUrl="https://plpan.github.io/atom.xml" type="rss" text="Stupig"/>
-		<outline htmlUrl="https://xargin.com/" title="Xargin" xmlUrl="https://xargin.com/rss/" type="rss" text="Xargin"/>
-		<outline htmlUrl="http://www.wowotech.net/" title="蜗窝科技" xmlUrl="http://www.wowotech.net/rss.php?sort=4" type="rss" text="蜗窝科技"/>
-		<outline htmlUrl="http://www.wowotech.net/" title="蜗窝科技(内存)" xmlUrl="http://www.wowotech.net/rss.php?sort=21" type="rss" text="蜗窝科技(内存)"/>
-		<outline htmlUrl="http://www.wowotech.net/" title="蜗窝科技(文件系统)" xmlUrl="http://www.wowotech.net/rss.php?sort=26" type="rss" text="蜗窝科技(文件系统)"/>
-		<outline htmlUrl="http://www.wowotech.net/" title="蜗窝科技(编译)" xmlUrl="http://www.wowotech.net/rss.php?sort=7" type="rss" text="蜗窝科技(编译)"/>
-		<outline htmlUrl="http://www.ruanyifeng.com/blog/" title="阮一峰的网络日志" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" type="rss" text="阮一峰的网络日志"/>
-		<outline htmlUrl="https://draveness.me/" title="面向信仰编程" xmlUrl="https://draveness.me/feed.xml" type="rss" text="面向信仰编程"/>
-	</body>
+<opml version="2.0">
+<head>
+<title>Feeds</title>
+</head>
+<body>
+<outline htmlUrl="https://www.ardanlabs.com/blog/" xmlUrl="https://www.ardanlabs.com/blog/index.xml" title="Ardan Labs" text="Ardan Labs" type="rss" />
+<outline type="rss" title="Blue summer的博客" text="Blue summer的博客" xmlUrl="https://blog.csdn.net/u010039418/rss/list" htmlUrl="https://blog.csdn.net/u010039418" />
+<outline type="rss" title="Brendan Gregg" text="Brendan Gregg" xmlUrl="http://www.brendangregg.com/blog/rss.xml" htmlUrl="http://www.brendangregg.com/blog" />
+<outline type="rss" xmlUrl="http://lzz5235.github.io/feed.xml" text="JasonLe" htmlUrl="http://lzz5235.github.io//" title="JasonLe" />
+<outline type="rss" xmlUrl="https://www.likakuli.com/index.xml" text="kaku" htmlUrl="https://www.likakuli.com/" title="kaku" />
+<outline text="Marek (linux)" xmlUrl="https://idea.popcount.org/rss.xml" type="rss" htmlUrl="https://idea.popcount.org" title="Marek (linux)" />
+<outline text="Preshing on Programming" type="rss" htmlUrl="https://preshing.com/feed" xmlUrl="https://preshing.com/feed" title="Preshing on Programming" />
+<outline title="Stupig" type="rss" htmlUrl="https://plpan.github.io/atom.xml" text="Stupig" xmlUrl="https://plpan.github.io/atom.xml" />
+<outline text="xargin" type="rss" xmlUrl="https://xargin.com/rss/" htmlUrl="https://xargin.com/" title="xargin" />
+<outline htmlUrl="HTTPS://strikefreedom.top" type="rss" title="潘建锋" xmlUrl="https://strikefreedom.top/rss.xml" text="潘建锋" />
+<outline type="rss" htmlUrl="http://www.wowotech.net/" xmlUrl="http://www.wowotech.net/rss.php?sort=21" title="蜗窝科技" text="蜗窝科技" />
+<outline type="rss" text="蜗窝科技" title="蜗窝科技" htmlUrl="http://www.wowotech.net/" xmlUrl="http://www.wowotech.net/rss.php?sort=7" />
+<outline text="蜗窝科技" type="rss" title="蜗窝科技" htmlUrl="http://www.wowotech.net/" xmlUrl="http://www.wowotech.net/rss.php?sort=26" />
+<outline title="蜗窝科技" xmlUrl="http://www.wowotech.net/rss.php?sort=4" htmlUrl="http://www.wowotech.net/" text="蜗窝科技" type="rss" />
+<outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" htmlUrl="http://www.ruanyifeng.com/blog/" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" />
+<outline htmlUrl="https://draveness.me/" type="rss" xmlUrl="https://draveness.me/feed.xml" text="面向信仰编程" title="面向信仰编程" />
+<outline htmlUrl="https://coolshell.cn/" type="rss" xmlUrl="https://coolshell.cn/feed" text="陈皓(酷客)" title="陈皓(酷客)" />
+</body>
 </opml>
