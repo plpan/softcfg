@@ -1,0 +1,8 @@
+- Adblock plus
+- google 翻译
+- JSON Formatter
+- Octotree
+- RSS Feed Reader
+- Session Buddy
+- 简阅 SimpRead
+- Talend API Tester - Free Edition
